@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header--main {
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+.href-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+.header--2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.paragraph {
+    color: grey;
+    font-size: 21px;
+}
+.footer {
+    color: grey;
+    text-align: right;
+}
